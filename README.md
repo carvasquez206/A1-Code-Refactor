@@ -13,4 +13,6 @@ Practicing git commands:
     git commit -m ""
     git commit -a
     git push
-
+    
+Screenshot: 
+![carvasquez206 github io_horiseon-webpage-homework-1_](https://user-images.githubusercontent.com/63617482/128582758-dd04dd59-e547-49bb-9b58-8a0af33ebbf2.png)
