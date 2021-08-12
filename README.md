@@ -33,4 +33,4 @@ THEN I find a concise, descriptive title
 ```
 
 ## Screenshot
-![carvasquez206 github io_horiseon-webpage-homework-1_](https://user-images.githubusercontent.com/63617482/128582758-dd04dd59-e547-49bb-9b58-8a0af33ebbf2.png)
+![_Users_carlosvasquez_Desktop_horiseon-webpage-homework-1_index html (2)](https://user-images.githubusercontent.com/63617482/129132221-b1e5c2fc-7a8d-4feb-bff1-0a294bea3030.png)
