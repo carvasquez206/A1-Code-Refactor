@@ -6,8 +6,11 @@ I have to:
 - refactor the code without altering the integrity of the original webpage's appearance.
 - add alt text for the images and links 
 
+## Link to Repository
+- https://carvasquez206.github.io/A1-Code-Refactor/
+
 ## Link to Website
-- https://carvasquez206.github.io/horiseon-webpage-homework-1/
+- https://carvasquez206.github.io/A1-Code-Refactor/
 
 ## git commands
 - git fetch
