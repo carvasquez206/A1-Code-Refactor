@@ -1,4 +1,4 @@
-# horiseon-webpage-homework-1
+# A1-Code-Refactor
 
 ## Description
 This is an assignment where I have to practice writing a README page and I have to make sure that it looks good and functions properly...
@@ -7,7 +7,7 @@ I have to:
 - add alt text for the images and links 
 
 ## Link to Repository
-- https://carvasquez206.github.io/A1-Code-Refactor/
+- https://github.com/carvasquez206/A1-Code-Refactor
 
 ## Link to Website
 - https://carvasquez206.github.io/A1-Code-Refactor/
