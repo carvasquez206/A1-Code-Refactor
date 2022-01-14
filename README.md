@@ -1,4 +1,4 @@
-# A1-Code-Refactor
+# Code-Refactor
 
 ## Description
 This is an assignment where I have to practice writing a README page and I have to make sure that it looks good and functions properly...
